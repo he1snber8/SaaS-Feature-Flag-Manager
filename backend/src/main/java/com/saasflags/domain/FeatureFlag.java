@@ -1,0 +1,1 @@
+package com.saasflags.domain;\n\n// public class FeatureFlag {\n//   private Long id;\n//   private String key;\n//   private boolean enabled;\n//   private Long projectId;\n//   // TODO: add getters/setters and validation annotations.\n// }
