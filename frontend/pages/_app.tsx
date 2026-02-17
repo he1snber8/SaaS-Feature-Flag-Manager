@@ -1,0 +1,1 @@
+import type { AppProps } from 'next/app';\n\n// function MyApp({ Component, pageProps }: AppProps) {\n//   // TODO: add layout, global styles, basic error boundary.\n//   return <Component {...pageProps} />;\n// }\n\n// export default MyApp;
