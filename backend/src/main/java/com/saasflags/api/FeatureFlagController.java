@@ -1,0 +1,1 @@
+package com.saasflags.api;\n\n// @RestController\n// @RequestMapping(\"/api/flags\")\n// public class FeatureFlagController {\n//   // TODO: inject FeatureFlagRepository/service.\n//   // @GetMapping\n//   // public List<FeatureFlag> list(@RequestParam Long projectId) { ... }\n//   // @PostMapping\n//   // public FeatureFlag create(@RequestBody FeatureFlag dto) { ... }\n// }
