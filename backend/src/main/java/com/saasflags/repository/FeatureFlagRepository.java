@@ -1,0 +1,1 @@
+package com.saasflags.repository;\n\n// public interface FeatureFlagRepository {\n//   // TODO: define methods like findByProjectId(Long projectId);\n//   // Implement via JPA, JDBC, or in-memory store for the exercise.\n// }
