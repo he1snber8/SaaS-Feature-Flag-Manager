@@ -1,0 +1,1 @@
+package com.saasflags.api;\n\n// @RestControllerAdvice\n// public class GlobalExceptionHandler {\n//   // @ExceptionHandler(Exception.class)\n//   // public ResponseEntity<?> handle(Exception ex) {\n//   //   // TODO: log error and return standardized JSON error body.\n//   // }\n// }
