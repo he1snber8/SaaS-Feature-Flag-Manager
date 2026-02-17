@@ -1,0 +1,1 @@
+module.exports = {\n  // TODO: add env mapping, API URL config, and strict mode settings.\n  reactStrictMode: true,\n};
