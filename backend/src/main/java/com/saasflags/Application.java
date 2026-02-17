@@ -1,0 +1,1 @@
+package com.saasflags;\n\n// public class Application {\n//   public static void main(String[] args) {\n//     // TODO: bootstrap framework (e.g., Spring Boot) and start server\n//     // Expose /health and /version endpoints for monitoring and release tracking.\n//   }\n// }
