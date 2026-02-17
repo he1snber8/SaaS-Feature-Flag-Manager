@@ -1,0 +1,1 @@
+package com.saasflags.security;\n\n// public class ApiKeyFilter /* extends OncePerRequestFilter */ {\n//   // TODO: read API key from header, compare with env-configured value, reject unauthorized.\n// }
